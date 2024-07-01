@@ -1,8 +1,8 @@
-# Full Name 
+# mohammed rasal 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Mohammed Rasal, a computer science enthusiast with a strong foundation in Java, C, and Python. My adaptability and time management skills have allowed me to excel in diverse environments, evident through my internship in machine learning at NextGenPro. As a full stack Java developer at Archon Solution, I honed my leadership abilities while showcasing effective communication and stress management. My journey reflects a blend of technical expertise and soft skills, positioning me as a well-rounded professional in the field.
 
 
 ## Portfolio Highlights

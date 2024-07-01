@@ -1,4 +1,4 @@
-# Full Name 
+# Amar Adharsh
 
 ### About Me
 

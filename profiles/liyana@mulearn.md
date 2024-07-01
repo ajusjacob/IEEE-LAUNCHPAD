@@ -1,9 +1,8 @@
-# Full Name 
+# Liyana T K
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+Iam liyana T K, studied in college of engineering thalassery on Btech Information technology 2024 batch.Iam very excellent at good team work, highly organized, excellent time keeper and have an extensive knowledge in IT field. Currently looking for a job as software developer.
 
 ## Portfolio Highlights
 
@@ -11,8 +10,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| IOT based food grain monitoring and storage system | It's a project on food grain monitoring and storage in warehouses using iot. It's monitored value and alerting the user are provided through website and message through registered mob.no| [Hosted Link 1](https://example.com)   | [Repo Link 1](https://github.com/username/project1)             |
+| Labour and Employer management system  | Website on Labour and Employer management on a localbody.Where labours can add their profiles and the employers can book the services provided by the labourer | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

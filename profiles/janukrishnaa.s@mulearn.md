@@ -1,8 +1,8 @@
-# Full Name 
+# Janukrishna A S 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Janukrishna A S cuurently pursuing B tech at Marian Engineering College Trivandrum.
 
 
 ## Portfolio Highlights

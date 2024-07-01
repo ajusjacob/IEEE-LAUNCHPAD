@@ -1,8 +1,8 @@
-# Full Name 
+# Haripriya K 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I graduated with a Btech in Computer Science and Engineering in 2024.My education provided me with a strong foundation in both theoretical and practical aspects of computing. 
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Facial recoginition  | Developed web app for college event photo with AI face detection for personalized photo retrieval                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Virtual smart home automation  | Home automation system with integrated security features,powered by unity and Vuforia for AR with realtime alert and seamless user interface                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

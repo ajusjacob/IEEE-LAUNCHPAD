@@ -1,8 +1,8 @@
-# Full Name 
+# Abhijith K
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm Abhijith K. I'm a 2024 graduate student from Shiv Nadar University. I have experience as a frontend developer and backend developer and have worked on python.
 
 
 ## Portfolio Highlights

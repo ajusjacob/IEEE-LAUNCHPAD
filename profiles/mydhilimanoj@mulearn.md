@@ -1,8 +1,10 @@
-# Full Name 
+# Mydhili Manoj
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> My name is Mydhili Manoj, I have completed Master of Computer Applications.
+> Seeking a position in the fields of Computer Science where I can utilize my skills to furtherwork towards personal and professional development and contribute towards the prosperity of the organisation
+> My skills are Python, Flask, Jupyter, Bootstrap, HTML, CSS, Javascript, Android Studio, PHP, C, Java, Overleaf
 
 
 ## Portfolio Highlights
@@ -11,8 +13,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| EMusify             |Developed an deep learning model to recommend music based on users mood    | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/mydhilimanoj/Main-project)             |
+|Resume Parser Using NLP in Machine Learning|sorted needed thimgs from resume                     [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

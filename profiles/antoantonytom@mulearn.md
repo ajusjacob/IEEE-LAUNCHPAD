@@ -1,8 +1,8 @@
-# Full Name 
+# Anto Antony Tom 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm a student currently persuing my MCA Post Graduation in RIT College Kottayam .There I'm Improving my coding skills for my future.
 
 
 ## Portfolio Highlights

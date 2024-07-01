@@ -1,8 +1,9 @@
-# Full Name 
+# Vishnu Prasad C P
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Motivated and tech-savvy student currently pursuing my Master's in Computer Applications at Rajiv gandhi institute of technology kottayam 
+With a strong foundation in computer science and a keen interest in emerging technologies, I'm eager to explore opportunities and collaborations that align with my passion for innovation and learning.
 
 
 ## Portfolio Highlights

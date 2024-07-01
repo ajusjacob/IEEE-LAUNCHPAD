@@ -1,8 +1,8 @@
-# Full Name 
+# ABHIJITH E 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi, Im Abhijith E from Thrissur, Completed my btech degree from sahrdaya college of Engineering Thrissur. 
 
 
 ## Portfolio Highlights

@@ -1,11 +1,11 @@
-# Nakhate Harika
+# Pranav Sarath
 
 ### About Me
 
-> - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
+> - 🔭 I’m currently working on my programming skills and exploring new technologies.
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
+> - 🎓 Graduated Btech ECE @ College Of Engineering, Kallooppara.
+> - Languages known - English, Malayalam, Hindi
 
 
 
@@ -15,12 +15,12 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
+| **Blood Link**  | An online application for blood donation management. The app connects users with nearby and preferred donors while prioritizing data privacy. It also includes features like chat and in-app calling for seamless communication between users.                                          |     |             |
+| **College Fee Manager**  |  The website manages Student and Admin data. Students can edit personal info, view due fees, and check payment status. Admins can manage and update fees, and track payments.                                             |    |             |
 
 #### Leadership and Influence:
 
-- I have taken part in a variety of volunteer activities. One recent example is being a mentor for a Google Cloud event called "Study Jam," where I demonstrated my abilities by coaching and guiding fellow students in completing Google Cloud labs.
+- I worked as the Volunteer Secratery of NSS Unit 126 of APJAKTU NSS. Conducted various programmes like 'Hridayapoorvam' which I led a lunch meal donation program at Mallappally Taluk Hospital, 'Niramaya 2k23' a seven day camp organized at Thiruvalla Taluk Hospital and initiated activites like furniture repair and painting, and also collected fund by selling waste for the consturction of homes for abandoned children by state NSS team.
 
 #### Networking:
 
@@ -35,11 +35,13 @@
 - The digital ecosystem in Kerala is a commendable endeavor that seeks to foster and enhance the startup culture. Young people with an entrepreneurial mindset are becoming more prevalent as a result. For young aspirants interested in startup missions, it will be helpful.
 
 
-- Html
-- Css
-- Js
-- Python
-- 
+#### Highly Used Software Tools:
+
+- Flutter
+- C, C++
+- HTML
+- CSS
+- JAVA
 #### Highly Visible Technical Content:
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
@@ -49,7 +51,9 @@
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-- https://www.hackerrank.com/profile/nharika203
+- 
+
+
 
 
 

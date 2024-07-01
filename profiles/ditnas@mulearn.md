@@ -1,8 +1,10 @@
-# Full Name 
+# Ditna s
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Myself Ditna s. I completed btech computer science engineering in nehru college of engineering and research centre. My technical skills are python java. My interpersonal skills are reading, communication, leadership.
+  I am able to communicate with new people and good listener and my hobbies are listening music writing. my strength are i am a hardworker and self motivator. And also i like coding.
+    
 
 
 ## Portfolio Highlights
@@ -16,7 +18,7 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- In general my role as a leader is to inspire ohers and trust within the team. I set a clear vision and defined the set of goals and maintain high standards. I also think critically and communicate clearly.
 
 #### Networking:
 
@@ -24,7 +26,7 @@
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- My short term plan is to work in a good position and the long term goal is to be a successful person and to help others.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -32,7 +34,7 @@
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have completed one project named email system for visually impaired and other project is a efficient college enquiry chatbot.
 
 #### History of Community Engagement:
 
